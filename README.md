@@ -34,11 +34,7 @@ Edit
 - Handling click events using `addEventListener`
 - Using `innerText` and `eval()` for expression evaluation
 - DOM manipulation to build interactive UI
-- Structuring HTML for calculator buttons and display
-
-## 📸 Screenshot
-
-![Screenshot](screenshot.png) <!-- optional -->
+- Structuring HTML for calculator buttons and display.
 
 ## 🧪 How to Run
 
