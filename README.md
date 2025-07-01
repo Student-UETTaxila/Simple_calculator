@@ -4,7 +4,7 @@ A beginner-level calculator built using HTML, CSS, and JavaScript. This project 
 
 ## 🚀 Live Demo
 
-
+ https://student-uettaxila.github.io/Simple_calculator/
 ## 📁 Project Structure
 
 simple-calculator/
